@@ -1,3 +1,3 @@
 print("HELLO")
 
-print
+print(123)
